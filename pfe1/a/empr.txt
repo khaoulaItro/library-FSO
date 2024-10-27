@@ -1,0 +1,109 @@
+ligne 64
+
+ // if(!isset($_SESSION['sid']))
+        //   {
+        //     echo'
+        //     <li>
+        //         <button type="button" id="login_button" class="btn btn-lg" data-toggle="modal" data-target="#login">Login</button>
+        //           <div id="login" class="modal fade" role="dialog">
+        //             <div class="modal-dialog">
+        //                 <div class="modal-content">
+        //                     <div class="modal-header">
+        //                         <button type="button" class="close" data-dismiss="modal">&times;</button>
+        //                         <h4 class="modal-title text-center">Login Form</h4>
+        //                     </div>
+        //                     <div class="modal-body">
+        //                                   <form class="form" role="form" method="post" action="index.php" accept-charset="UTF-8">
+        //                                       <div class="form-group">
+        //                                           <label class="sr-only" for="username">Username</label>
+        //                                           <input type="text" name="login_username" class="form-control" placeholder="Username" required>
+        //                                       </div>
+        //                                       <div class="form-group">
+        //                                           <label class="sr-only" for="password">Password</label>
+        //                                           <input type="password" name="login_password" class="form-control"  placeholder="Password" required>
+        //                                       </div>
+        //                                       <div class="form-group">
+        //                                           <button type="submit" name="submit" value="login" class="btn btn-block">
+        //                                               Sign in
+        //                                           </button>
+        //                                       </div>
+        //                                   </form>
+        //                     </div>
+        //                     <div class="modal-footer">
+        //                         <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        //                     </div>
+        //                 </div>
+        //             </div>
+        //           </div>
+        //     </li>
+        //     <li>
+        //       <button type="button" id="register_button" class="btn btn-lg" data-toggle="modal" data-target="#register">Sign Up</button>
+        //         <div id="register" class="modal fade" role="dialog">
+        //           <div class="modal-dialog">
+        //               <div class="modal-content">
+        //                   <div class="modal-header">
+        //                       <button type="button" class="close" data-dismiss="modal">&times;</button>
+        //                       <h4 class="modal-title text-center">Member Registration Form</h4>
+        //                   </div>
+        //                   <div class="modal-body">
+        //                                 <form class="form" role="form" method="post" action="index.php" accept-charset="UTF-8">
+        //                                     <div class="form-group">
+        //                                         <label class="sr-only" for="username">Username</label>
+        //                                         <input type="text" name="register_username" class="form-control" placeholder="Username" required>
+        //                                     </div>
+        //                                     <div class="form-group">
+        //                                         <label class="sr-only" for="password">Password</label>
+        //                                         <input type="password" name="register_password" class="form-control"  placeholder="Password" required>
+        //                                     </div>
+        //                                     <div class="form-group">
+        //                                         <button type="submit" name="submit" value="register" class="btn btn-block">
+        //                                             Sign Up
+        //                                         </button>
+        //                                     </div>
+        //                                 </form>
+        //                   </div>
+        //                   <div class="modal-footer">
+        //                       <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        //                   </div>
+        //               </div>
+        //           </div>
+        //         </div>
+        //     </li>';
+        //   } 
+        // else{   
+            
+
+
+
+
+<!-- <div class="container-fluid" id="author">
+      <h3 style="color:#D67B22;"> AUTEURS POPULAIRES </h3>
+      <div class="row">
+          <div class="col-sm-5 col-md-3 col-lg-3">
+              <a href="Author.php?value=Durjoy%20Datta"><img class="img-responsive center-block" src="img/popular-author/0.jpg"></a>
+          </div>
+          <div class="col-sm-6 col-md-3 col-lg-3">
+              <a href="Author.php?value=Chetan%20Bhagat"><img class="img-responsive center-block" src="img/popular-author/1.jpg"></a>
+          </div>
+          <div class="col-sm-6 col-md-3 col-lg-3">
+              <a href="Author.php?value=Dan%20Brown"><img class="img-responsive center-block" src="img/popular-author/2.jpg"></a>
+          </div>
+          <div class="col-sm-6 col-md-3 col-lg-3">
+              <a href="Author.php?value=Ravinder%20Singh"><img class="img-responsive center-block" src="img/popular-author/3."></a>
+          </div>
+      </div>
+      <div class="row">
+          <div class="col-sm-5 col-md-3 col-lg-3">
+              <a href="Author.php?value=Jeffrey%20Archer"><img class="img-responsive center-block" src="img/popular-author/4.jpg"></a>
+          </div>
+          <div class="col-sm-6 col-md-3 col-lg-3">
+              <a href="Author.php?value=Salman%20Rushdie"><img class="img-responsive center-block" src="img/popular-author/5.jpg"><a>
+          </div>
+          <div class="col-sm-6 col-md-3 col-lg-3">
+              <a href="Author.php?value=J%20K%20Rowling"><img class="img-responsive center-block" src="img/popular-author/6.jpg"></a>
+          </div>
+          <div class="col-sm-6 col-md-3 col-lg-3">
+              <a href="Author.php?value=Subrata%20Roy"><img class="img-responsive center-block" src="img/popular-author/7.jpg"></a>
+          </div>
+      </div>
+  </div> -->

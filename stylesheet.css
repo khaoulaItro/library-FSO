@@ -1,0 +1,111 @@
+@charset "utf-8";
+
+.body
+{
+
+/*background-image:url("images/khaoula.jpg") ;
+ margin:0px; */
+ background-color: lightpink;
+	background-size: cover;
+}
+
+.head{
+	font-family:"Trebuchet MS";
+	font-size:40px;
+	color:#A83B4A;
+	margin-right:50px;
+	font-variant: small-caps
+}
+#curs{
+	background-color: rgb(11, 91, 134);
+}
+#banners
+{
+	width:200px;
+	height:200px;
+	border:2px solid rgb(3, 3, 133);
+	background-color:rgba(2, 11, 33, 0.7);
+}
+.clg
+{
+	font-family:"Segoe UI";
+	font-size:16px;
+	color:rgb(28, 155, 184);
+}
+#wrapper
+{
+	width:80%;
+	border-radius:10px;
+	border:2px solid rgb(91, 199, 226);
+	background-color:transparent;
+	max-width: 500px;
+}
+#connaissance
+{
+	width:80%;
+	border-radius:10px;
+	border:2px solid rgb(28, 15, 201);
+	background-color:rgba(0,0,0,0.7);
+	
+}
+.SubHead
+{
+	font-family:"Segoe UI";
+	color:rgb(19, 19, 20);
+	font-size:20px;
+}
+.labels
+{
+	font-family:"Trebuchet MS";
+	font-size:16px;
+	color:#A83B4A;
+}
+.fields
+{
+	font-family:"Trebuchet MS";
+	font-size:14px;
+	color:#A83B4A;
+	border-radius:5px;
+	padding:4px 6px;
+	border:1px solid rgb(51, 228, 255);
+	background-color:transparent;
+}
+
+.table
+{
+	border-radius:5px;
+	padding:0px 5px;
+	border:1px solid rgb(35, 104, 177);
+	background-color:transparent;
+}
+a.link:link{font-family:"Segoe UI";font-size:16px;color:rgb(5, 9, 123);text-decoration:none;}
+a.link:active{font-family:"Segoe UI";font-size:16px;color:rgb(60, 33, 211);text-decoration:none;}
+a.link:visited{font-family:"Segoe UI";font-size:16px;color:rgb(18, 37, 127);text-decoration:none;}
+a.link:hover{font-family:"Segoe UI";font-size:16px;color:#F6F;text-decoration:none;}
+.msg
+{
+	font-family:"Segoe UI";
+	color:#6F6;
+	font-size:13px;
+}
+a.Command:link{text-decoration:none;font-family:"Segoe UI";color:#CFC;font-size:16px;padding:5px 7px;border:2px solid #FF0;border-radius:5px;}
+a.Command:active{text-decoration:none;font-family:"Segoe UI";color:#CFC;font-size:16px;padding:5px 7px;border:2px solid #FF0;border-radius:5px;}
+a.Command:visited{text-decoration:none;font-family:"Segoe UI";color:#CFC;font-size:16px;padding:5px 7px;border:2px solid #FF0;border-radius:5px;}
+a.Command:hover{text-decoration:none;font-family:"Segoe UI";color:#CFC;font-size:16px;padding:5px 7px;border:2px solid #F60;border-radius:5px;box-shadow:0px 0px 10px #FFFFFF;}
+
+
+.class1{
+	background-color:#F06262;
+	margin:0px;
+}
+.class1 body{
+	color:black;
+}
+.class1 table{
+	border-radius:5px;
+	padding:0px 5px;
+	border:1px solid rgb(51, 51, 255);
+	background-color:transparent;
+	
+	
+}
